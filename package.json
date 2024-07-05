@@ -1,0 +1,22 @@
+{
+  "name": "react-isles",
+  "version": "0.0.1",
+  "main": "lib/index.ts",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "html", "parser"],
+  "author": "Leonardo Marcarini Borges",
+  "license": "MIT",
+  "description": "Render separate React componentes in plain HTML",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.5.3"
+  }
+}
