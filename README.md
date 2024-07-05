@@ -5,13 +5,13 @@ A lightweight library that allows you to render React components from HTML marku
 ## Installation
 
 ```bash
-npm install react-html-parser
+npm install react-isles
 ```
 
 or
 
 ```bash
-yarn add react-html-parser
+yarn add react-isles
 ```
 
 ## Usage
